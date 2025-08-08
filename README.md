@@ -24,5 +24,3 @@ Minimum Hardware: Intel Core2, 4 GB RAM, 500 GB free storage
 About the Company:
 Developed for Jaishree Advertising, a creative design company specializing in branding, web design, UI/UX, motion graphics, print, and social media content. The aim is to bring creativity, convenience, and innovation to the design industry through an accessible online platform.
 
-
-Ask ChatGPT
